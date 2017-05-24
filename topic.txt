@@ -1,0 +1,22 @@
+Hi all,
+
+If you are still struggling to come up with a topic, I would be interested in the following.
+
+1) Optimisation of military vehicle hullshape to minimise damage due to IED detonation - Difficulty: Moderate to Challenging. This would use the explicit dynamics module to simulate the collisions. This is an important topic that directly affects the survivability of personnel on the battlefield. Because this is for military applications, the design considerations are quite different compared to commercial design. Overall weight is important to reduce and there are many interesting design trade offs to be implemented. It is not as simple as just increasing armour thickness; better ways are required to reduce the total amount of blast energy absorbed by the hull.
+
+2) Minimisation of tank track link weight for medium to heavy fighting vehicles - Difficulty: Easy to Moderate. This would use the static structural module to validate the integrity of the design. For medium to heavy fighting vehicles, tank track links can weigh up to 30 kgs each, with over 100 links per track. The total weight of the tracks can account for up to 10% of the vehicle weight. Weight directly affects the mobility of the vehicle which can reduce its survivability. The weight of track links also make maintenance and repair of the links very difficult, especially in theatre.
+
+3) Design of Impact Resistant Composite Window Coverings for Emergency Cyclone/Hurricane Protection - Difficulty: Moderate to Challenging. This project would utilise the ACP (Ansys Composite Prep) and explicit dynamic modules to validate the integrity and feasibility of the project. One of the dangers during a heavy storm is debris smashing through windows. Wooden boards are commonly used to prevent this, however, an investigative study could be conducted to determine whether there is benefit in utilising composite boards. Composites have desirable impact absorption properties and can be much lighter to install during time of emergency. However, depending on the composite price could be a prohibiting factor.
+
+Here is an example of what explicit dynamics module can achieve with impact modelling.
+
+
+ 
+
+ 
+
+More than one person can work on these projects, so if you are keen or have any questions about this please email me at d.eggler@unsw.edu.au
+
+Kind regards,
+
+Daniel Eggler 
