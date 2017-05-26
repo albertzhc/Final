@@ -20,3 +20,11 @@ More than one person can work on these projects, so if you are keen or have any 
 Kind regards,
 
 Daniel Eggler 
+
+
+
+
+
+a spherical steel ball 8 mm in diameter (approximately 2 grams mass) impacting at
+0.4 VR for the horizontal component of the trajectory, and 0.3 VR for the vertical
+component of the trajectory,
